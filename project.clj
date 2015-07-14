@@ -1,5 +1,5 @@
-(defproject puppetlabs/plumbing "0.2.1-pl2-SNAPSHOT"
-  :description "Prismatic's Clojure utility belt."
+(defproject puppetlabs/plumbing "0.2.1-pl2"
+  :description "This is an old, unmaintained fork of prismatic/plumbing, \"Prismatic's Clojure utility belt.\"  Changes have been merged upstream; please use the latest version from Prismatic instead."
   :license {:name "Eclipse Public License - v 1.0"
             :url "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo}
